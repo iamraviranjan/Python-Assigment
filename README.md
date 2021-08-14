@@ -10,3 +10,5 @@ Assigment3-https://github.com/iamraviranjan/Python-Assigment/blob/49813608914306
 Assigment4-https://github.com/iamraviranjan/Python-Assigment/blob/39746358224f051322b12477b30e32c367a2a59c/Assignment_4.ipynb
 
 Assigment5-https://github.com/iamraviranjan/Python-Assigment/blob/c270420dc6c8ed810a31a0ca0e8fe6f79def14a8/Assignment_5.ipynb
+
+Assigment6-https://iamraviranjan.github.io/Python-Assigment/Assignment_6.html
